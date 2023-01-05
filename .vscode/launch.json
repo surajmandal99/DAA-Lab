@@ -1,0 +1,147 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch HamiltonianCycle",
+            "request": "launch",
+            "mainClass": "HamiltonianCycle",
+            "projectName": "DAA Lab_171721a3"
+        },
+        {
+            "type": "java",
+            "name": "Launch subSet",
+            "request": "launch",
+            "mainClass": "subSet",
+            "projectName": "DAA Lab_171721a3"
+        },
+        {
+            "type": "java",
+            "name": "Launch knapsack",
+            "request": "launch",
+            "mainClass": "knapsack",
+            "projectName": "DAA Lab_171721a3"
+        },
+        {
+            "type": "java",
+            "name": "Launch FloydWarshall",
+            "request": "launch",
+            "mainClass": "FloydWarshall",
+            "projectName": "DAA Lab_171721a3"
+        },
+        {
+            "type": "java",
+            "name": "Launch AllPairShortestPath",
+            "request": "launch",
+            "mainClass": "AllPairShortestPath",
+            "projectName": "DAA Lab_171721a3"
+        },
+        {
+            "type": "java",
+            "name": "Launch nQueen",
+            "request": "launch",
+            "mainClass": "nQueen",
+            "projectName": "DAA Lab_171721a3"
+        },
+        {
+            "type": "java",
+            "name": "Launch PGraph",
+            "request": "launch",
+            "mainClass": "PGraph",
+            "projectName": "DAA Lab_171721a3"
+        },
+        {
+            "type": "java",
+            "name": "Launch tsp",
+            "request": "launch",
+            "mainClass": "tsp",
+            "projectName": "DAA Lab_171721a3"
+        },
+        {
+            "type": "java",
+            "name": "Launch a",
+            "request": "launch",
+            "mainClass": "a",
+            "projectName": "DAA Lab_171721a3"
+        },
+        {
+            "type": "java",
+            "name": "Launch KruskalAlgorithm",
+            "request": "launch",
+            "mainClass": "KruskalAlgorithm",
+            "projectName": "DAA Lab_171721a3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Dijk",
+            "request": "launch",
+            "mainClass": "Dijk",
+            "projectName": "DAA Lab_171721a3"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShortestPath",
+            "request": "launch",
+            "mainClass": "ShortestPath",
+            "projectName": "DAA Lab_171721a3"
+        },
+        {
+            "type": "java",
+            "name": "Launch prims",
+            "request": "launch",
+            "mainClass": "prims",
+            "projectName": "DAA Lab_171721a3"
+        },
+        {
+            "type": "java",
+            "name": "Launch MST",
+            "request": "launch",
+            "mainClass": "MST",
+            "projectName": "DAA Lab_171721a3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Knapsack",
+            "request": "launch",
+            "mainClass": "Knapsack",
+            "projectName": "DAA Lab_171721a3"
+        },
+        {
+            "type": "java",
+            "name": "Launch mergeSort",
+            "request": "launch",
+            "mainClass": "mergeSort",
+            "projectName": "DAA Lab_171721a3"
+        },
+        {
+            "type": "java",
+            "name": "Launch QuickSort",
+            "request": "launch",
+            "mainClass": "QuickSort",
+            "projectName": "DAA Lab_171721a3"
+        },
+        {
+            "type": "java",
+            "name": "Launch quickSort",
+            "request": "launch",
+            "mainClass": "quickSort",
+            "projectName": "DAA Lab_171721a3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeSort",
+            "request": "launch",
+            "mainClass": "MergeSort",
+            "projectName": "DAA Lab_171721a3"
+        }
+    ]
+}
